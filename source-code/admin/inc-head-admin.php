@@ -1,0 +1,1 @@
+<link rel="stylesheet" href="<?php echo $siteurl; ?>admin/admin-style.css" type="text/css" />
